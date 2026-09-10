@@ -1,0 +1,19 @@
+sku_id,sku_name,category,price,shelf_life_days
+SKU001,Amul Toned Milk 500ml,Dairy,27,3
+SKU002,Amul Butter 100g,Dairy,58,60
+SKU003,Brown Eggs (6 pcs),Dairy,48,15
+SKU004,Tomato 500g,Fruits & Veg,22,5
+SKU005,Onion 1kg,Fruits & Veg,35,14
+SKU006,Banana Dozen,Fruits & Veg,45,5
+SKU007,Lays Classic 52g,Snacks,20,120
+SKU008,Maggi Noodles 70g,Snacks,14,240
+SKU009,Britannia Good Day 100g,Snacks,30,180
+SKU010,Coca-Cola 750ml,Beverages,40,270
+SKU011,Real Fruit Juice 1L,Beverages,110,180
+SKU012,Bisleri Water 1L,Beverages,20,365
+SKU013,Surf Excel 1kg,Household,130,720
+SKU014,Colgate Toothpaste 100g,Personal Care,55,730
+SKU015,Dettol Handwash 200ml,Personal Care,65,730
+SKU016,boAt Earbuds,Electronics,1499,3650
+SKU017,Phone Charging Cable,Electronics,299,3650
+SKU018,Birthday Candles Pack,General,40,3650

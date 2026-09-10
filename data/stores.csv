@@ -1,0 +1,13 @@
+store_id,store_name,zone,lat,lon,store_tier
+LKO01,Gomti Nagar,East,26.8541,81.0067,Tier1
+LKO02,Hazratganj,Central,26.8467,80.9462,Tier1
+LKO03,Indira Nagar,East,26.8809,80.9989,Tier2
+LKO04,Aliganj,North,26.8912,80.9328,Tier2
+LKO05,Alambagh,South,26.8103,80.9077,Tier2
+LKO06,Chinhat,East,26.8783,81.0553,Tier3
+LKO07,Mahanagar,North,26.8674,80.9482,Tier2
+LKO08,Aminabad,Central,26.8467,80.9219,Tier1
+LKO09,Rajajipuram,West,26.8267,80.8794,Tier3
+LKO10,Telibagh,South,26.7742,80.9358,Tier3
+LKO11,Jankipuram,North,26.9187,80.9548,Tier3
+LKO12,Cantt,Central,26.8306,80.9598,Tier2
