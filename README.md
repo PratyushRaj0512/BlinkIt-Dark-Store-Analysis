@@ -2,7 +2,7 @@
 
 **Dark Store Demand-Supply Mismatch & Inventory Allocation Simulator**
 
-A data analytics project simulating 12 Blinkit-style dark stores across Lucknow, quantifying how much revenue is lost to inventory stockouts, and modeling a smarter, demand-proportional inventory reallocation strategy to recover that revenue — visualized through a fully interactive, Blinkit-branded Streamlit dashboard.
+A data analytics project simulating 12 Blinkit-style dark stores across Lucknow, quantifying how much revenue is lost to inventory stockouts, and modeling a smarter, demand-proportional inventory reallocation strategy to recover that revenue — visualized through a fully interactive Streamlit dashboard.
 
 Built with **Python · SQL (SQLite) · Streamlit · Plotly**
 
